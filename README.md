@@ -12,4 +12,8 @@ You can click the Preview link to take a look at your changes.
 - I'm an aspiring front-end developer currently working in the exciting field of data. Currently Senior Product Analyst @ Coupang. Previously worked in investment banking, insurance, automobile and consulting.
 
 <h3>Find me elsewhere &#127760;</h3>
-<i style="font-size:24px" class="fa"><a href="https://www.linkedin.com/in/munsheet/">&#xf08c;</a></i>
+
+<a href="https://www.linkedin.com/in/munsheet/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+
