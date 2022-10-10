@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 - I'm an aspiring front-end developer currently working in the exciting field of data. Currently Senior Product Analyst @ Coupang. Previously worked in investment banking, insurance, automobile and consulting. I'm a natural builder and problem solver. 
 <br/>
 <br/>
+
 - 🌱 Currently learning general front-end development using Vanilla HTML5, CSS and Javascript. 
 - 📕 Started to write a technical <a href="https://medium.com/@joonsmoons">blog</a>, mostly about web development and data science. 
 - 💼 Connect with me here <a href="https://www.linkedin.com/in/munsheet/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a> &nbsp; 
