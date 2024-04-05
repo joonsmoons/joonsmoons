@@ -14,10 +14,9 @@
 | Orchestration       | [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-DB-blue?logo=apache-airflow&logoColor=white)](https://airflow.apache.org/) [![Dagster](https://img.shields.io/badge/Dagster-DB-blue?logo=dagster&logoColor=white)](https://dagster.io/)                   |
 | Data Transformation | [![Databricks](https://img.shields.io/badge/Databricks-DB-blue?logo=databricks&logoColor=white)](https://databricks.com/) [![dbt](https://img.shields.io/badge/dbt-DB-blue?logo=dbt&logoColor=white)](https://www.getdbt.com/)               |
 | Streaming Data      | [![Apache Kafka Streaming](https://img.shields.io/badge/Apache%20Kafka-DB-blue?logo=apache-kafka&logoColor=white)](https://kafka.apache.org/) [![Apache Spark Streaming](https://img.shields.io/badge/Apache%20Spark%20Streaming-DB-blue?logo=apache-spark&logoColor=white)](https://spark.apache.org/streaming/)            |
-| Visualization       | [![Tableau](https://img.shields.io/badge/Tableau-DB-blue?logo=tableau&logoColor=white)](https://www.tableau.com/) [![Apache Superset](https://img.shields.io/badge/Apache%20Superset-DB-blue?logo=apache%20superset&logoColor=white)](https://superset.apache.org/)
-                         |
+| Visualization       | [![Tableau](https://img.shields.io/badge/Tableau-DB-blue?logo=tableau&logoColor=white)](https://www.tableau.com/) [![Apache Superset](https://img.shields.io/badge/Apache%20Superset-DB-blue?logo=apache%20superset&logoColor=white)](https://superset.apache.org/)|
 | Cloud       | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)               |
-| DevOps       | Docker ![Github Actions](https://camo.githubusercontent.com/7f60bca1e72b8363f7379de8dc377834f88264d87670acb1ba934d89d43841c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) 
+| DevOps       | [![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white)](https://www.docker.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Build-blue?logo=github-actions&logoColor=white)](https://github.com/features/actions) |
 
 ---
 
