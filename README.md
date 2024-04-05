@@ -1,6 +1,6 @@
 ### Greetings! I'm Justin 👋
 
-Passionate about leveraging data for insights and innovation, I'm a skilled data analyst with a keen interest in data engineering. Equipped with strong data analysis skills, I aim to architect robust pipelines, unlock data potential, and embrace cutting-edge tech for impactful solutions.
+I'm well-versed in both data science and data engineering, having honed my skills over years of hands-on experience. From developing intricate machine learning models to engineering efficient ETL pipelines, I'm passionate about leveraging big data to unlock valuable insights. My focus on big data and analytics drives me to architect software solutions that power innovation and drive business success.
 
 #### 🛠️ My Tool Kit 
 | **Category**            | **Tools**                                     |
