@@ -10,13 +10,13 @@
 | Category            | Tools                                     |
 |---------------------|-------------------------------------------|
 | Programming         | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)                            |
-| Warehousing         | Clickhouse, ![Snowflake](https://img.shields.io/badge/snowflake-%2356B9EB.svg?&style=for-the-badge&logo=snowflake&logoColor=black), Amazon EMR |
-| Orchestration       | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white), Dagster                   |
+| Warehousing         | Clickhouse ![Snowflake](https://img.shields.io/badge/snowflake-%2356B9EB.svg?&style=for-the-badge&logo=snowflake&logoColor=black) |
+| Orchestration       | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) Dagster                   |
 | Data Transformation | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)                |
-| Streaming Data      | ![Kafka Streams](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white), ![Spark Streaming](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)            |
-| Visualization       | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white), Superset                         |
+| Streaming Data      | ![Kafka Streams](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ![Spark Streaming](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)            |
+| Visualization       | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) Superset                         |
 | Cloud       | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)               |
-
+| DevOps       | Docker ![Github Actions](https://camo.githubusercontent.com/7f60bca1e72b8363f7379de8dc377834f88264d87670acb1ba934d89d43841c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) 
 
 ---
 
