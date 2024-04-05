@@ -4,5 +4,5 @@
 <br/>
 <br/>
 
-- 💼 Connect with me here <a href="https://www.linkedin.com/in/munsheet/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a> &nbsp;
+- 💼 Connect with me here <a href="https://www.linkedin.com/in/munsheet/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">https://www.linkedin.com/in/munsheet/</a> &nbsp;
 - 📧 Or email at joonsmoons@gmail.com
