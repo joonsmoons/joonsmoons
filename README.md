@@ -6,6 +6,14 @@
 
 🌟 Excited by the endless possibilities that data engineering offers, I'm committed to continuous learning and growth in this ever-evolving field. From optimizing data workflows to implementing cutting-edge technologies, I'm eager to contribute to the next wave of data-driven advancements.
 
+### 🛠️ My Tool Kit 
+|Programming|Warehousing|Orchestration|Visualization|
+|Python|Clickhouse|Airflow|Tableau|
+|R|Snowflake|Dagster|Superset|
+|SQL|Databricks|Crontab||
+||Amazon EMR|||
+
+
 ---
 
 📫 **Let's Connect!**
