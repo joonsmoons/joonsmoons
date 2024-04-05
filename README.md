@@ -19,5 +19,6 @@ Passionate about leveraging data for insights and innovation, I'm a skilled data
 ---
 
 📫 **Let's Connect!**
-- [LinkedIn](https://www.linkedin.com/in/munsheet/)
-- 📧 Email: joonsmoons@gmail.com
+
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/munsheet/) for more exciting discussions and professional networking.
+- 📧 Feel free to shoot me an email at joonsmoons@gmail.com. I'm always open to new opportunities and collaborations!
