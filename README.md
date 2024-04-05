@@ -9,10 +9,7 @@
 ### 🛠️ My Tool Kit 
 | Category            | Tools                                     |
 |---------------------|-------------------------------------------|
-| Programming         | [Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-) [R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-) [SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-)                            |
+| Programming         | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)                            |
 | Warehousing         | Clickhouse, Snowflake, Databricks, Amazon EMR |
 | Orchestration       | Apache Airflow, Dagster                   |
 | Visualization       | Tableau, Superset                         |
