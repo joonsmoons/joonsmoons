@@ -1,8 +1,13 @@
+### Greetings! I'm Justin 👋
 
-<h3> Hello! I'm Justin 👋</h3>
-- I'm a data-centric developer currently working in the exciting field of data. Currently Senior Product Analyst @ Coupang. Previously worked in investment banking, insurance, automobile and consulting. I'm a natural builder and problem solver. 
-<br/>
-<br/>
+🔍 Aspiring data engineer and product data analyst, I'm passionate about harnessing the power of data to drive insights and innovation. Currently honing my skills and expertise in the dynamic intersection of data engineering and analytics.
 
-- <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Connect with me here <a href="https://www.linkedin.com/in/munsheet/" rel="nofollow noreferrer">https://www.linkedin.com/in/munsheet/</a> &nbsp;
-- 📧 Or email at joonsmoons@gmail.com
+🛠️ With a strong foundation in data analysis and a thirst for technical challenges, I'm actively pursuing opportunities to dive deeper into data engineering. My goal is to architect robust data pipelines, design scalable systems, and unlock the full potential of data-driven solutions.
+
+🌟 Excited by the endless possibilities that data engineering offers, I'm committed to continuous learning and growth in this ever-evolving field. From optimizing data workflows to implementing cutting-edge technologies, I'm eager to contribute to the next wave of data-driven advancements.
+
+---
+
+📫 **Let's Connect!**
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/munsheet/)
+- 📧 Email: joonsmoons@gmail.com
