@@ -1,4 +1,4 @@
-### Greetings! I'm Justin 👋
+### Greetings! I'm Joonsoo 👋
 
 I'm well-versed in both data science and data engineering, having honed my skills over years of hands-on experience. From developing intricate machine learning models to engineering efficient ETL pipelines, I'm passionate about leveraging big data to unlock valuable insights. My focus on big data and analytics drives me to architect software solutions that power innovation and drive business success.
 
@@ -20,5 +20,5 @@ I'm well-versed in both data science and data engineering, having honed my skill
 
 📫 **Let's Connect!**
 
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/munsheet/) for more exciting discussions and professional networking.
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/joonsmoons/) for more exciting discussions and professional networking.
 - 📧 Feel free to shoot me an email at joonsmoons@gmail.com. I'm always open to new opportunities and collaborations!
